@@ -3,3 +3,4 @@ selenium
 jira
 PyYAML
 pytest-html
+pytest-xdist
